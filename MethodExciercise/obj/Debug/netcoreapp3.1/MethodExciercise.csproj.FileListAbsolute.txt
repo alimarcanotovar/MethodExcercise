@@ -1,0 +1,14 @@
+C:\Users\Weeb\Desktop\Repos\MethodExciercise\MethodExciercise\bin\Debug\netcoreapp3.1\MethodExciercise.exe
+C:\Users\Weeb\Desktop\Repos\MethodExciercise\MethodExciercise\bin\Debug\netcoreapp3.1\MethodExciercise.deps.json
+C:\Users\Weeb\Desktop\Repos\MethodExciercise\MethodExciercise\bin\Debug\netcoreapp3.1\MethodExciercise.runtimeconfig.json
+C:\Users\Weeb\Desktop\Repos\MethodExciercise\MethodExciercise\bin\Debug\netcoreapp3.1\MethodExciercise.runtimeconfig.dev.json
+C:\Users\Weeb\Desktop\Repos\MethodExciercise\MethodExciercise\bin\Debug\netcoreapp3.1\MethodExciercise.dll
+C:\Users\Weeb\Desktop\Repos\MethodExciercise\MethodExciercise\bin\Debug\netcoreapp3.1\MethodExciercise.pdb
+C:\Users\Weeb\Desktop\Repos\MethodExciercise\MethodExciercise\obj\Debug\netcoreapp3.1\MethodExciercise.csproj.AssemblyReference.cache
+C:\Users\Weeb\Desktop\Repos\MethodExciercise\MethodExciercise\obj\Debug\netcoreapp3.1\MethodExciercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weeb\Desktop\Repos\MethodExciercise\MethodExciercise\obj\Debug\netcoreapp3.1\MethodExciercise.AssemblyInfoInputs.cache
+C:\Users\Weeb\Desktop\Repos\MethodExciercise\MethodExciercise\obj\Debug\netcoreapp3.1\MethodExciercise.AssemblyInfo.cs
+C:\Users\Weeb\Desktop\Repos\MethodExciercise\MethodExciercise\obj\Debug\netcoreapp3.1\MethodExciercise.csproj.CoreCompileInputs.cache
+C:\Users\Weeb\Desktop\Repos\MethodExciercise\MethodExciercise\obj\Debug\netcoreapp3.1\MethodExciercise.dll
+C:\Users\Weeb\Desktop\Repos\MethodExciercise\MethodExciercise\obj\Debug\netcoreapp3.1\MethodExciercise.pdb
+C:\Users\Weeb\Desktop\Repos\MethodExciercise\MethodExciercise\obj\Debug\netcoreapp3.1\MethodExciercise.genruntimeconfig.cache
